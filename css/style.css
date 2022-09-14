@@ -1,0 +1,16 @@
+html{
+    margin: 0%;
+}
+img{
+    height: 400px;
+    
+}
+body{
+    height: 100vh;
+    width: auto;
+    background-image: url("/images/space.jpeg");
+    color: azure;
+}
+input, button{
+    color: black;
+}
