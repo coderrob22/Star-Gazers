@@ -1,10 +1,29 @@
 # Star-Gazers
 API from NASA
 
-Description:
-This is my first project using an API so it is pretty simple and straight forward. This is a webpage using the NASA API: APOD (Astronomy Picture of the Day). This page receives info from NASA every day. The center photo is a photo of space, located in the images folder. The background is also located in the images folder and it is called from css (style.css). To use this page click on the "Change Date" button which will load the picture and description for the day (from NASA). You can also change the date to another day's picture of the day.
 
-Build: 
-I used html, css, javascript, a little bit of bootstrap, and some images to get everything to work. 
+
+**Link to project:** https://coderrob22.github.io/Star-Gazers/
+
+<img width="1436" alt="Screen Shot 2022-09-15 at 9 14 39 AM" src="https://user-images.githubusercontent.com/105181695/203994557-ab05b40c-10d4-4881-b961-e701275fa324.png">
+
+
+## How It's Made:
+
+**Tech used:** HTML, CSS, JavaScript
+
+This is a webpage using the NASA API: APOD (Astronomy Picture of the Day). This page receives info from NASA every day. To use this page click on the "Change Date" button which will load the picture and description for the day (from NASA). You can also change the date to another day's picture of the day.
+
+## Lessons Learned:
+
+This was such a fun project to work on and I really enjoyed learning more about fetch requests and working with NASA data. 
+
+## Examples:
+Take a look at this example that I have in my portfolio:
+
+**Jeopardy Party:** https://coderrob22.github.io/Jeopardy-API/
 
 Cheers!
+
+
+
