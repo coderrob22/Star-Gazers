@@ -5,7 +5,8 @@ API from NASA
 
 **Link to project:** https://coderrob22.github.io/Star-Gazers/
 
-<img width="1436" alt="Screen Shot 2022-09-15 at 9 14 39 AM" src="https://user-images.githubusercontent.com/105181695/203994557-ab05b40c-10d4-4881-b961-e701275fa324.png">
+<img width="1428" alt="Screen Shot 2022-11-25 at 8 27 36 AM" src="https://user-images.githubusercontent.com/105181695/203998026-b733f652-2250-4a76-9852-5e0ee1213d13.png">
+
 
 
 ## How It's Made:
